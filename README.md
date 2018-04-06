@@ -4,20 +4,22 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(April 6, 2018)
 
 ### Student Name:  
-(First and Last Name)
+(Evadina Sloate)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(In this lesson, we learned how to build an application that shows the a recipe’s ingredients
+and instructions. We used jQuery to respond to the users requests.)
 
 ### View Project Online:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://evamsloate.github.io/-lesson7_jquery/)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (JQuery enables developers to implement common JavaScript
+tasks with minimal code)
+2. (Every jQuery statement begins with $)
+3. (jQuery enables developers to implement common
+tasks with minimal code.)
 
